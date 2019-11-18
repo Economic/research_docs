@@ -1,0 +1,32 @@
+site_name: EPI Research Documentation
+theme:
+  name: 'material'
+  language: en
+  feature:
+    tabs: true
+  palette:
+    primary: indigo
+    accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/images/favicon.png
+  logo:
+    icon: "\uE80C"
+
+markdown_extensions:
+  - codehilite
+  - pymdownx.superfences
+
+nav:
+- Overview: index.md
+- Contributions: contributions.md
+- Infrastructure: infrastructure.md
+- Example code:
+  - An example: examples/example.md
+  - Another example: examples/example2.md
+- Project Managment:
+  - organizing stuff: project_management/organization.md
+- RA Projects:
+  - Jobs Day: ra_jobs/jobsday.md
+
