@@ -1,4 +1,12 @@
+# Project information
 site_name: EPI Research Documentation
+site_description: Documentation for EPI Research Department staff
+site_url: https://economic.github.io/research_docs/
+
+# Repository
+repo_name: economic/research_docs
+repo_url: https://github.com/economic/research_docs
+
 theme:
   name: 'material'
   language: en
