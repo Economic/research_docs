@@ -2,10 +2,7 @@
 site_name: EPI Research Documentation
 site_description: Documentation for EPI Research Department staff
 site_url: https://economic.github.io/research_docs/
-
-# Repository
-repo_name: economic/research_docs
-repo_url: https://github.com/economic/research_docs
+copyright: 'Copyright &copy; 2019 <a href= "https://epi.org">Economic Policy Institute</a>'
 
 theme:
   name: 'material'
@@ -21,9 +18,14 @@ theme:
   favicon: assets/images/favicon.png
   logo:
     icon: "home"
+  custom_dir: theme_customizations
 
 markdown_extensions:
   - codehilite
   - pymdownx.superfences
+
+plugins:
+  - search
+  - awesome-pages
 
 nav:

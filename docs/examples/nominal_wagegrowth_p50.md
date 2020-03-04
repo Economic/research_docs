@@ -22,3 +22,9 @@ graph export qwagegrowth.pdf, replace
 
 ```
 
+```r tab="R"
+# sample r code
+mydata %>% filter(mpg <= 100)
+
+```
+

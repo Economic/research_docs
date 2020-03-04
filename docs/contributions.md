@@ -13,11 +13,12 @@ We build the documentation from markdown files using [MkDocs](https://www.mkdocs
 * `mkdocs`
 * `mkdocs-material`
 * `pymdown-extensions`
+* `mkdocs-awesome-pages-plugin`
 
 For example, on our server maynard open a terminal and type 
 
 ```bash
-pip3 install mkdocs mkdocs-material pymdown-extensions --user
+pip3 install mkdocs mkdocs-material pymdown-extensions mkdocs-awesome-pages-plugin --user
 ```
 
 ## Build the docs locally
