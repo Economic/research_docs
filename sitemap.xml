@@ -2,32 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>https://economic.github.io/research_docs/</loc>
-     <lastmod>2019-11-19</lastmod>
+     <lastmod>2020-03-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://economic.github.io/research_docs/contributions/</loc>
-     <lastmod>2019-11-19</lastmod>
+     <lastmod>2020-03-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://economic.github.io/research_docs/infrastructure/</loc>
-     <lastmod>2019-11-19</lastmod>
+     <lastmod>2020-03-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://economic.github.io/research_docs/Project_Management/organization/</loc>
-     <lastmod>2019-11-19</lastmod>
+     <lastmod>2020-03-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://economic.github.io/research_docs/RA_Jobs/datalibrary/</loc>
+     <lastmod>2020-03-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://economic.github.io/research_docs/RA_Jobs/jobsday/</loc>
-     <lastmod>2019-11-19</lastmod>
+     <lastmod>2020-03-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://economic.github.io/research_docs/examples/nominal_wagegrowth_p50/</loc>
-     <lastmod>2019-11-19</lastmod>
+     <lastmod>2020-03-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
